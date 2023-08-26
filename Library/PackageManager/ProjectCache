@@ -5,26 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638285890773528580
-    m_Hash: 947626093
-=======
-      ticks: 638285814901184882
-    m_Hash: 3343454190
->>>>>>> 90283782ebc1eeb64bf8f9959df007f1d3f4a872
+      ticks: 638286095585140548
+    m_Hash: 3554885528
   m_LockFileStatus:
     m_FilePath: D:/UP Famnit/Augmented Reality/Project/BasketballHoopAR/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638285890773528580
-    m_Hash: 28772972
-=======
-      ticks: 638285814901262017
-    m_Hash: 2347840240
->>>>>>> 90283782ebc1eeb64bf8f9959df007f1d3f4a872
+      ticks: 638286095585140548
+    m_Hash: 350768440
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -37,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 5.0.7
   source: 1
-  resolvedPath: D:\Fax\GitHub\BasketballHoopAR\Library\PackageCache\com.unity.xr.arfoundation@5.0.7
+  resolvedPath: D:\UP Famnit\Augmented Reality\Project\BasketballHoopAR\Library\PackageCache\com.unity.xr.arfoundation@5.0.7
   assetPath: Packages/com.unity.xr.arfoundation
   name: com.unity.xr.arfoundation
   displayName: AR Foundation
@@ -2174,7 +2164,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.6.3
   source: 1
-  resolvedPath: D:\Fax\GitHub\BasketballHoopAR\Library\PackageCache\com.unity.inputsystem@1.6.3
+  resolvedPath: D:\UP Famnit\Augmented Reality\Project\BasketballHoopAR\Library\PackageCache\com.unity.inputsystem@1.6.3
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -2288,7 +2278,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.2.2
   source: 1
-  resolvedPath: D:\Fax\GitHub\BasketballHoopAR\Library\PackageCache\com.unity.xr.core-utils@2.2.2
+  resolvedPath: D:\UP Famnit\Augmented Reality\Project\BasketballHoopAR\Library\PackageCache\com.unity.xr.core-utils@2.2.2
   assetPath: Packages/com.unity.xr.core-utils
   name: com.unity.xr.core-utils
   displayName: XR Core Utilities
@@ -2386,7 +2376,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.4.0
   source: 1
-  resolvedPath: D:\Fax\GitHub\BasketballHoopAR\Library\PackageCache\com.unity.xr.management@4.4.0
+  resolvedPath: D:\UP Famnit\Augmented Reality\Project\BasketballHoopAR\Library\PackageCache\com.unity.xr.management@4.4.0
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -2520,7 +2510,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Fax\GitHub\BasketballHoopAR\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: D:\UP Famnit\Augmented Reality\Project\BasketballHoopAR\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -2591,7 +2581,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: D:\Fax\GitHub\BasketballHoopAR\Library\PackageCache\com.unity.mathematics@1.2.6
+  resolvedPath: D:\UP Famnit\Augmented Reality\Project\BasketballHoopAR\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -2665,7 +2655,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.10
   source: 1
-  resolvedPath: D:\Fax\GitHub\BasketballHoopAR\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: D:\UP Famnit\Augmented Reality\Project\BasketballHoopAR\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
