@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.ai.navigation": "1.1.4",
+=======
+    "com.unity.xr.arfoundation": "5.0.7",
+>>>>>>> 420bfcaca155acab4f1d3151f5ea093454ddfc29
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
