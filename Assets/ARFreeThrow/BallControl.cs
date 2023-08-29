@@ -14,7 +14,7 @@ public class BallControl : MonoBehaviour
     public float m_ThrowDirectionY = 0.67f;
 
     //Offset of the ball's position in relation to camera's position
-    public Vector3 m_BallCameraOffset = new Vector3(0f,-1,4f,2f);
+    public Vector3 m_BallCameraOffset = new Vector3(0f,-1.4f,2f);
 
     //Curent throw 
     private Vector3 startPosition;
@@ -76,7 +76,7 @@ public class BallControl : MonoBehaviour
         }
 
         //After the 5sec of ball throw,it's position is reseted 
-        if(Timer.time - endTime >= 5 && Time.time - endTime <= 6)
+        if(Time.time - endTime >= 5 && Time.time - endTime <= 6)
         ResetBall();
 
     }
